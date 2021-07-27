@@ -1,0 +1,1 @@
+This program takes a number of fraction bits, exponent bits, and a hex value from the user. It then converts this hex value based on the number of bits given into a floating point number. If the number happens to be +/- infinity or NaN (Not a number), the program will tell the user and exit without any calculation.
